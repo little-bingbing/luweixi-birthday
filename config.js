@@ -25,8 +25,8 @@ var config = {
      * Tip: 图片最好用正方形or接近正方形, 看起来效果更好
      */
     imgs: {
-        "心爱的小可爱": "./imgs/IMG_20200319_085549.JPG",
-        "今天是你的生日": "./imgs/IMG_20200319_085549.JPG",
+       // "心爱的小可爱": "./imgs/IMG_20200319_085549.JPG",
+        //"今天是你的生日": "./imgs/IMG_20200319_085549.JPG",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
@@ -37,6 +37,6 @@ var config = {
         cake_fadein: "蛋糕？",
         light_candle: "蜡烛？",
         wish_message: "生日快乐",
-        story: "A MESSAGE FOR YOU",
+        //story: "A MESSAGE FOR YOU",
     }
 };
